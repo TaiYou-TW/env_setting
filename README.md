@@ -34,7 +34,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 #### steps
 
 ```shell
-chmod +x ./install.sh
 ./install.sh
 zsh # load the zsh manually
 # and you'll enter p10k configure wizard, my configurations is: yyyy21322111111y1y
